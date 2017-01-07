@@ -73,3 +73,79 @@ trailer
 startxref
 652
 %%EOF
+4 0 obj
+  << /Type /Page
+     /Parent 3 0 R
+     /MediaBox [ 0 0 612 792 ]
+     /Contents 5 0 R
+     /Resources << /ProcSet 6 0 R
+                   /Font << /F13 13 0 R >>
+                >>
+     /Annots 7 0 R
+  >>
+endobj
+
+7 0 obj
+  [ 8 0 R
+    9 0 R
+    10 0 R
+    11 0 R
+  ]
+endobj
+
+8 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 44 616 162 735 ]
+     /Contents ( Text #1 )
+     /Open true
+  >>
+endobj
+
+9 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 224 668 457 735 ]
+     /Contents ( Text #2 )
+     /Open false
+  >>
+endobj
+
+10 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 239 393 328 622 ]
+     /Contents ( Text #3 )
+     /Open true
+  >>
+endobj
+
+11 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 34 398 225 575 ]
+     /Contents ( Text #4 )
+     /Open false
+  >>
+endobj
+
+xref
+0 1
+0000000000 65535 f
+4 1
+0000000882 00000 n
+7 5
+0000001106 00000 n
+0000001168 00000 n
+0000001300 00000 n
+0000001434 00000 n
+0000001568 00000 n
+
+trailer
+  << /Size 13
+     /Root 1 0 R
+     /Prev 652
+  >>
+startxref
+1702
+%%EOF
