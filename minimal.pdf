@@ -149,3 +149,27 @@ trailer
 startxref
 1702
 %%EOF
+
+10 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 239 393 328 622 ]
+     /Contents ( Modified Text #3 )
+     /Open true
+  >>
+endobj
+
+xref
+0 1
+0000000000 65535 f
+10 1
+0000001934 00000 n
+
+trailer
+  << /Size 12
+     /Root 1 0 R
+     /Prev 1702
+  >>
+startxref
+2077
+%%EOF
