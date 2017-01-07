@@ -196,3 +196,58 @@ trailer
 startxref
 2248
 %%EOF
+7 0 obj
+  [ 10 0 R
+    11 0 R
+    8 1 R
+    9 1 R
+    12 0 R
+  ]
+endobj
+
+8 1 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 58 657 172 742 ]
+     /Contents ( New Text #1 )
+     /Open true
+  >>
+endobj
+
+9 1 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 389 459 570 537 ]
+     /Contents ( New Text #2 )
+     /Open false
+  >>
+endobj
+
+12 0 obj
+  << /Type /Annot
+     /Subtype /Text
+     /Rect [ 44 253 473 337 ]
+     /Contents ( New Text #3\203a longer text annotation which we will continue \
+       onto a second line )
+     /Open true
+  >>
+endobj
+
+xref
+0 1
+0000000000 65535 f
+7 3
+0000002419 00000 n
+0000002492 00001 n
+0000002628 00001 n
+12 1
+0000002766 00000 n
+
+trailer
+  << /Size 13
+     /Root 1 0 R
+     /Prev 2248
+  >>
+startxref
+2982
+%%EOF
