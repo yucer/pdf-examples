@@ -173,3 +173,26 @@ trailer
 startxref
 2077
 %%EOF
+
+7 0 obj
+[ 10 0 R
+  11 0 R
+]
+endobj
+
+xref
+0 1
+0000000008 65535 f
+7 3
+0000002212 00000 n
+0000000009 00001 f
+0000000000 00001 f
+
+trailer
+  << /Size 12
+     /Root 1 0 R
+     /Prev 2077
+  >>
+startxref
+2248
+%%EOF
